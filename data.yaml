@@ -1,0 +1,14 @@
+names:
+- Emergency exit indicator light
+- Fire alarm
+- wet floor sign
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-ojs42
+  url: https://universe.roboflow.com/ossamas-workspace-rckyc/object-detection-ojs42/dataset/1
+  version: 1
+  workspace: ossamas-workspace-rckyc
+test: ../test/images
+train: ../train/images
+val: ../valid/images

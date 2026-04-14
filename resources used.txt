@@ -1,0 +1,3 @@
+https://inference.roboflow.com/inference_helpers/inference_sdk/core_models/
+
+https://inference.roboflow.com/inference_helpers/inference_sdk/configuration/
